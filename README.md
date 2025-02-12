@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ## 📩 Contact
 
 **Dharani Sri Hamsa**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com) *(Replace with your actual email)*  
+📧 Email: manduladharanisrihamsa@gmail.com
 🔗 GitHub: [DharaniSriHamsa](https://github.com/DharaniSriHamsa)
 
 ---
